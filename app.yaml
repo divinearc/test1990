@@ -1,0 +1,5 @@
+runtime: python37
+
+network:
+  forwarded_ports:
+    - 8080/tcp
